@@ -11,5 +11,12 @@ config_version=5
 [application]
 
 config/name="Untitled_Game"
+run/main_scene="uid://og5dj6voffv"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/resizable=false
